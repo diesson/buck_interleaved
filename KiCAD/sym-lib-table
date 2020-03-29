@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name indutor)(type Legacy)(uri /home/fbroering/Dropbox/2019-1/ELP/buck_interleaving/KiCad/Buck_Interleaved/indutor.lib)(options "")(descr ""))
+  (lib (name Buck_Interleaved-rescue)(type Legacy)(uri ${KIPRJMOD}/Buck_Interleaved-rescue.lib)(options "")(descr ""))
+)

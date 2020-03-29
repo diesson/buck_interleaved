@@ -1,0 +1,5 @@
+Vermelho - Componentes virados para a porta
+Verde claro - Componentes virados contra a porta (fonte no lado direito)
+Verde escuro - Componentes virados contra a porta (fonte no lado esquerdo)
+Azul claro - Componentes virados para a ponta da camara
+Azul escuro - Componentes virados para a espuma 
